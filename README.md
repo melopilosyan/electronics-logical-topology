@@ -2,4 +2,4 @@
 
 Electronics logical topology graphic editor
 
-[Edit](/bin/images/edit.png)
+![Edit](/bin/images/edit.png)
