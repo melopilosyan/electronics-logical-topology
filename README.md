@@ -1,5 +1,9 @@
 <style>
-	
+	div img {
+		display:table-cell;
+		vertical-align:middle;
+		margin:auto;
+	}
 </style>
 # Electronics Logical Topology Graphic Editor
 
@@ -13,7 +17,6 @@ Select item from left toolbar and click on the view to add selected item to the 
 To connect items select connection type on the same menu, click on the item in the view then on the another to connect with.
 Double click on the item in the view and edit some info on the opened dialog.
 <div style="text-align: center"><div style="text-align: center"><img src="/screenshots/edit.png" title="Edit elctronics info dialog"/></div></div>
-->![](/screenshots/edit.png)<-
 
 Editor also allows to:
 * Delete selected item(s) and connection(s) on the view
