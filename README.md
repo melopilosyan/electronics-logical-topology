@@ -16,6 +16,8 @@ To connect items select connection type on the same menu, click on the item in t
 Double click on the item in the view and edit some info on the opened dialog.
 <br/><img src="/screenshots/edit.png" title="Edit elctronics info dialog" style="display:table-cell;vertical-align:middle;margin:auto;" align="center"/>
 
+<a href="/screenshots/edit.png" target="_blank" style="display:block;"><img src="/screenshots/edit.png" title="Edit elctronics info dialog" align="center" style="max-width:100%;"></a>
+
 Editor also allows to:
 * Delete selected item(s) and connection(s) on the view
 * Save created topology graph as XML or PNG file
