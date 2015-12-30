@@ -1,8 +1,3 @@
-<style>
-	div img {
-		
-	}
-</style>
 # Electronics Logical Topology Graphic Editor
 
 This is Qt GUI application using Qts graphics view library to build and manage graph with electronics icons as tops.
