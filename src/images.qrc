@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/wan.png</file>
+        <file>images/tv.png</file>
+        <file>images/station.png</file>
+        <file>images/satellite.png</file>
+        <file>images/router.png</file>
+        <file>images/phone.png</file>
+        <file>images/pc.png</file>
+        <file>images/lan.png</file>
+        <file>images/iphone.png</file>
+        <file>images/wifi.png</file>
+        <file>images/server.png</file>
+    </qresource>
+    <qresource prefix="/menu">
+        <file alias="copy">images/menus/copy.png</file>
+        <file alias="cut">images/menus/cut.png</file>
+        <file alias="new">images/menus/new.png</file>
+        <file alias="open">images/menus/open.png</file>
+        <file alias="paste">images/menus/paste.png</file>
+        <file alias="save">images/menus/save.png</file>
+        <file alias="saveas">images/menus/saveas.png</file>
+        <file alias="savetoimage">images/menus/savetoimage.png</file>
+        <file alias="zoomin">images/menus/zoomin.png</file>
+        <file alias="zoomout">images/menus/zoomout.png</file>
+        <file alias="delete">images/menus/deletered1.png</file>
+        <file alias="clear">images/menus/clear.png</file>
+        <file alias="load">images/menus/load.png</file>
+    </qresource>
+</RCC>
