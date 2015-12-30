@@ -9,7 +9,7 @@ Download `bin/ElLogicalTop.zip`, unzip under Unix system OS(Ubuntu is preferable
 Select item from left toolbar and click on the view to add selected item to the project. Deselect by clicking on the same item or pressing `Esc`.
 To connect items select connection type on the same menu, click on the item in the view then on the another to connect with.
 Double click on the item in the view and edit some info on the opened dialog.
-<div style="text-align: center"><img src="/screenshots/edit.png" title="Edit elctronics info dialog"/></div>
+<div style="text-align: center"><div style="text-align: center"><img src="/screenshots/edit.png" title="Edit elctronics info dialog"/></div></div>
 
 Editor also allows to:
 * Delete selected item(s) and connection(s) on the view
