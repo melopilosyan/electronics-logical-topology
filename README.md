@@ -10,11 +10,16 @@ Select item from left toolbar and click on the view to add selected item to the 
 To connect items select connection type on the same menu, click on the item in the view then on the another to connect with.
 Double click on the item in the view and edit some info on the opened dialog.<br/>![](/screenshots/edit.png "Edit elctronics info dialog")
 
+<div id="cont">
+	<img src="/screenshots/edit.png"/>
+</div>
+#cont{margin:auto}
+
 Editor also allows to:
-[x] Delete selected item(s) and connection(s) on the view
-[x] Save created topology graph as XML or PNG file
-[x] Open saved project from XML
-[x] Work with multiple graphs simultaneously
+* Delete selected item(s) and connection(s) on the view
+* Save created topology graph as XML or PNG file
+* Open saved project from XML
+* Work with multiple graphs simultaneously
 
 #### Author
 [Meliq Pilosyan](https://github.com/melopilosyan)
